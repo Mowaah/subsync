@@ -83,7 +83,9 @@ npm run ios
 
 ## Screenshots
 
-[Screenshots will be added in the future]
+
+![image](https://github.com/user-attachments/assets/5a560ab8-bd55-4f3f-b55b-88bb97fa219d)
+
 
 ## License
 
